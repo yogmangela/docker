@@ -130,3 +130,6 @@ ubuntu@ip-172-31-13-194:~$
 - so ``34.240.233.69:80``
 
 - If you have succesfully run all above comand you should get ##**it works!** displayed.
+
+# **Next >>**  DockerSwarm launch two services: 
+- [two services on Docker Swarm cluster](/JenkinsDockerSwarm.md)

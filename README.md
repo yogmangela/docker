@@ -132,4 +132,10 @@ ubuntu@ip-172-31-13-194:~$
 - If you have succesfully run all above comand you should get ##**it works!** displayed.
 
 # **Next >>**  DockerSwarm launch two services: 
-- [two services on Docker Swarm cluster](/JenkinsDockerSwarm.md)
+- [click here to create two services on Docker Swarm cluster](/JenkinsDockerSwarm.md)
+
+==============================================================================================================
+
+# Ways to reduce AWS Costs: [ref.](https://pages.awscloud.com/Nine-Ways-to-Reduce-Your-AWS-Bill_2020_0008-CMP_OD.html)
+
+![nine ways to reduce costs](images/AWS_Costs.png)
